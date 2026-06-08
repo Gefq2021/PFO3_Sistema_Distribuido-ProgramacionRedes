@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+src/servidor/tareas_distribuidas.db
+
+src/servidor/storage/*
+!src/servidor/storage/.gitkeep
+
+.vscode/
+.idea/
