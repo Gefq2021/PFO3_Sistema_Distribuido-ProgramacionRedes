@@ -17,15 +17,23 @@ Para cumplir con los objetivos prácticos del diseño de redes sin requerir infr
 ## Cómo ejecutar el proyecto
 
 1. Corre el servidor para que empiece a escuchar conexiones de red:
-   ```bash
-   python src/servidor/servidor.py
-   ```
+    ```bash
+    python src/servidor/servidor.py          # Comando para Windows
+    ```
+
+    ```bash
+    python3 src/servidor/servidor.py         # Comando para Linux / macOS
+    ```
 
 2. En otra terminal (sin cerrar la anterior), ejecuta el script del cliente para inyectar una tarea con un archivo simulado en el sistema distribuido:
 
-   ```bash
-   python src/cliente/cliente.py
-   ```
+    ```bash
+    python src/cliente/cliente.py            # Comando para Windows
+    ```
+    
+    ```bash
+    python3 src/cliente/cliente.py           # Comando para Linux / macOS
+    ```
 
 ### 📸 Capturas de la Ejecución
 
