@@ -11,7 +11,7 @@ PUERTO = 65432
 
 def enviar_nueva_tarea(titulo, descripcion, nombre_archivo=None, contenido_archivo=None):
     """Se conecta al servidor por socket para enviar una tarea."""
-    print(f"🌐 Conectando al sistema distribuido en {HOST}:{PUERTO}...")
+    print(f"Conectando al sistema distribuido en {HOST}:{PUERTO}...")
     
     try:
         client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
