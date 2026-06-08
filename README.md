@@ -70,4 +70,4 @@ if __name__ == "__main__":
 
 ## Autor
 
-* **Gerardo Fabián Quispe** - *Desarrollo e Implementación* - [Gefq2021](https://www.google.com/search?q=https://github.com/Gefq2021)
+* **Gerardo Fabián Quispe** - [Gefq2021](https://github.com/Gefq2021/PFO3_Sistema_Distribuido-ProgramacionRedes)
